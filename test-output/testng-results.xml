@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="API Automation" duration-ms="3193" started-at="2020-04-15T17:20:39Z" finished-at="2020-04-15T17:20:42Z">
+    <groups>
+    </groups>
+    <test name="API Automation-test cases" duration-ms="3193" started-at="2020-04-15T17:20:39Z" finished-at="2020-04-15T17:20:42Z">
+      <class name="com.api.tests.TestCases">
+        <test-method status="PASS" signature="verifyGetAPI()[pri:0, instance:com.api.tests.TestCases@3a82f6ef]" name="verifyGetAPI" duration-ms="1881" started-at="2020-04-15T22:50:39Z" finished-at="2020-04-15T22:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetAPI -->
+        <test-method status="PASS" signature="verifyPostAPI()[pri:1, instance:com.api.tests.TestCases@3a82f6ef]" name="verifyPostAPI" duration-ms="1297" started-at="2020-04-15T22:50:41Z" finished-at="2020-04-15T22:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPostAPI -->
+      </class> <!-- com.api.tests.TestCases -->
+    </test> <!-- API Automation-test cases -->
+  </suite> <!-- API Automation -->
+</testng-results>

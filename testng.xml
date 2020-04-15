@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<suite name="API Automation" verbose="2">
+<test enabled="true" name="API Automation-test cases" preserve-order="true">
+	<classes>
+	 <class name="com.api.tests.TestCases">
+			<methods>
+				<include name="verifyGetAPI"/>
+				<include name="verifyPostAPI"/>
+				
+				
+				
+				
+			</methods>
+			
+		</class>	
+	</classes>
+  </test>
+  
+  </suite>
+  
